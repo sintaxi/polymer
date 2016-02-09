@@ -1,6 +1,8 @@
 # polymer
 
-Pre-processor system for automatic template compiling.
+> NodeJS library for pre-processor agnostic template compiling.
+
+Polymer understands jade, less, and markdown.
 
 ## Usage
 
