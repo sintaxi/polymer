@@ -1,6 +1,6 @@
 # polymer
 
-Pre-processor for the Harp APF.
+Pre-processor system for automatic template compiling.
 
 ## Usage
 
